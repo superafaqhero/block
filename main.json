@@ -1,5 +1,5 @@
 {
-  "googlesearch": true,
+  "googlesearch": false,
   "Firefox": false,
   "VSCode": true
 }
