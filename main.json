@@ -1,5 +1,7 @@
 {
   "googlesearch": true,
   "Firefox": false,
+    "meds": true,
+
   "VSCode": false
 }
